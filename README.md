@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
@@ -23,6 +24,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
