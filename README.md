@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0518-coin-change-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Backtracking
 |  |
 | ------- |
