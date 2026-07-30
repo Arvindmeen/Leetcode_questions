@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
