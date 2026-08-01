@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0494-target-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
