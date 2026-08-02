@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0518-coin-change-ii) |
@@ -130,4 +133,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
