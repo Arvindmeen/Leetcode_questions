@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1406-stone-game-iii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Backtracking
 |  |
@@ -157,8 +160,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1406-stone-game-iii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
