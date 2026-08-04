@@ -6,7 +6,6 @@ public:
         int n = nums.size();
         int start = nums[0];
         int end = nums[n-1];
-
         unordered_map<int, int> mpp;
         for(int i = 0; i<n; i++){
             mpp[nums[i]];
