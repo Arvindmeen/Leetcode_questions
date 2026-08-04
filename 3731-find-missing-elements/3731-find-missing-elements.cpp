@@ -4,7 +4,6 @@ public:
         sort(nums.begin(), nums.end());
         vector<int> ans;
         int n = nums.size();
-
         int start = nums[0];
         int end = nums[n-1];
 
