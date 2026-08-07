@@ -8,17 +8,13 @@ public:
                 temp /= digit;
             }
         }
-
         if (temp != 1) {
             return "-1";
         }
-
         int n = num.size();
         vector<char> digits(num.begin(), num.end());
-
         vector<long long> remaining(n + 1, 0);
         remaining[0] = t;
-
         int lastValidPos = n - 1;
 
         for (int i = 0; i < n; i++) {
