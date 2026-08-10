@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0486-predict-the-winner) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0494-target-sum) |
