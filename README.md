@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1927-sum-game](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Arvindmeen/Leetcode_questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1927-sum-game) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
