@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1563-stone-game-v) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Arvindmeen/Leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Arvindmeen/Leetcode_questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Arvindmeen/Leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
