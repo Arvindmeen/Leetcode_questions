@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0455-assign-cookies](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0115-distinct-subsequences) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0115-distinct-subsequences) |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
