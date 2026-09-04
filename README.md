@@ -105,7 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
-| [0022-generate-parentheses](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0115-distinct-subsequences) |
@@ -135,14 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
-| [0022-generate-parentheses](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
-| [0022-generate-parentheses](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0115-distinct-subsequences) |
@@ -261,8 +258,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3903-smallest-stable-index-i) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
