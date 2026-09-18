@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Arvindmeen/Leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arvindmeen/Leetcode_questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Arvindmeen/Leetcode_questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arvindmeen/Leetcode_questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
