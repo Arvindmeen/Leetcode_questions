@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1927-sum-game) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
