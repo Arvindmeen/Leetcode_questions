@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Arvindmeen/Leetcode_questions/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Arvindmeen/Leetcode_questions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Arvindmeen/Leetcode_questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
